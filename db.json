@@ -1,28 +1,29 @@
 {
   "bg": "https://wallpapercave.com/wp/YnjnAvh.jpg",
   "title": "Kung Fu Quiz",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "description": "Teste os seus conhecimentos sobre Kung Fu",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.giphy.com/media/l41lH7iYaCXksbNHG/giphy.gif",
+      "title": "Qual é a tradução aceita para a palavra Shaolin?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Pequena floresta",
+        "Espessa floresta",
+        "Jovem floresta",
+        "Grande floresta"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/Nrbjx4yqUhYZi/giphy.gif",
+      "title": "Onde está localizado o templo Shaolin?",
+      "description": "Essa está fácil",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Província de Henan na China",
+        "Província de Hainan na China",
+        "Província de Henan na Índia"
       ]
     }
   ],
