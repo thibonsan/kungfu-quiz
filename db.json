@@ -25,10 +25,44 @@
         "Província de Hainan na China",
         "Província de Henan na Índia"
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/26BkO9XoLLpo2hbTG/giphy.gif",
+      "title": "Qual o nome do primeiro patriarca do estilo Hung Gar?",
+      "description": "Vamos lá",
+      "answer": 1,
+      "alternatives": [
+        "Wong Fei Hung",
+        "Hung Hei Gung",
+        "Bruce Lee"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/Sxh04mKq6H8Yg/giphy.gif",
+      "title": "Bruce Lee foi fundador de qual arte marcial?",
+      "description": "Mais uma",
+      "answer": 0,
+      "alternatives": [
+        "Jeet Kune Do",
+        "Kung Fu",
+        "Krav Maga"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/10W7YOp7PaMVxu/giphy.gif",
+      "title": "Qual é o real nome do ator/artista marcial Jackie Chan?",
+      "description": "Pra terminar",
+      "answer": 0,
+      "alternatives": [
+        "Chan Kong-sang",
+        "Chan Kong-sung",
+        "Sang Kong-chan"
+      ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
